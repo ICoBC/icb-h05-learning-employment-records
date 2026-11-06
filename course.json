@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-H05",
+  "repository": "icb-h05-learning-employment-records",
+  "repository_url": "https://github.com/ICoBC/icb-h05-learning-employment-records",
+  "title": "Learning and Employment Records",
+  "subtitle": "From single badges to comprehensive, learner-held records.",
+  "version": "1.0.0",
+  "series": "Horizon",
+  "skill": "Standards and interoperability",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-STND-L3-K",
+  "badge_name": "Learning and Employment Records (Knowledge, L3)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-h05/",
+  "parts": [
+    "About this course",
+    "The concept",
+    "CLR 2.0",
+    "Comparisons",
+    "Implications",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 8,
+  "practice_questions": 16
+}
